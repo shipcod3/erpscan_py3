@@ -2,7 +2,7 @@
 # Exploit Title: Java Serialization Exploit
 # Date: 03/20/2018
 # Exploit Original Author: @0xalg
-# Modified by shipcod3
+# Modified by shipcod3 for py3
 # Version: 1.1
 
 import requests
